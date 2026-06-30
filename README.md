@@ -2,9 +2,7 @@
 
 **AI/ML Technical Program Management · AI Infrastructure · Cloud Data Platforms · ML Systems · Geospatial Analytics**
 
-This repository is the central portfolio map for my AI/ML, cloud infrastructure, data platform, and technical program management work. It connects enterprise delivery experience with hands-on technical artifacts across machine learning evaluation, high-performance computing, AI infrastructure, computer vision, Databricks lakehouse systems, and Azure-hosted geospatial analytics platforms.
-
-The portfolio is designed to demonstrate technical depth, platform thinking, execution ownership, and the ability to lead AI/data systems from ambiguity to production-ready architecture.
+This repository is the central portfolio map that connects my enterprise IT delivery experience with hands-on technical artifacts across machine learning evaluation, high-performance computing, AI infrastructure, computer vision, Databricks lakehouse systems, and Azure-hosted geospatial analytics platforms.
 
 ---
 
