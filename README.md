@@ -1,4 +1,4 @@
-# Tolegen AI Portfolio
+# Technical Portfolio
 
 **AI/ML Technical Program Management · AI Infrastructure · Cloud Data Platforms · ML Systems · Geospatial Analytics**
 
