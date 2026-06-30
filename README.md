@@ -157,22 +157,6 @@ Representative work:
 
 ---
 
-## Positioning
-
-This portfolio is intentionally built to support roles such as:
-
-- AI/ML Technical Program Manager
-- AI Infrastructure TPM
-- Cloud Data Platform TPM
-- ML Systems Program Manager
-- Applied AI Program Lead
-- Data and AI Platform Delivery Lead
-- AI Infrastructure / MLOps-focused Engineering Program Manager
-
-The portfolio emphasizes not only implementation, but also the ability to define architecture, create delivery systems, manage complexity, and connect technical execution to business outcomes.
-
----
-
 ## Portfolio Narrative
 
 My background combines enterprise technology delivery, cloud/data modernization, AI adoption, and large-scale program leadership. This portfolio translates that experience into hands-on technical artifacts that demonstrate the ability to operate at the intersection of engineering, product, cloud infrastructure, data platforms, and AI/ML systems.
