@@ -7,7 +7,7 @@ This repository is the central portfolio map that connects my enterprise IT deli
 ## Repository Map
 
 | Repository | Status | Purpose | Primary Focus |
-|---|---|---|
+|---|---|---|---|
 | [`ml-model-evaluation-and-optimization`](https://github.com/tolegen-ai/ml-model-evaluation-and-optimization/tree/main) | In progress | Machine learning evaluation and optimization | Supervised learning, benchmarking, model comparison, reproducibility |
 | [`gis-data-analytics-azure-platform`](https://github.com/tolegen-ai/gis-data-analytics-azure-platform) | Completed | Azure-hosted GIS analytics platform | PostgreSQL/PostGIS, Azure, Docker, Kubernetes, Terraform, geospatial analytics |
 | [`finance-sales-lakehouse-databricks`](https://github.com/tolegen-ai/finance-sales-lakehouse-spark-databricks) | Completed | Enterprise finance and sales analytics platform | Databricks, Spark, lakehouse design, business analytics modernization |
